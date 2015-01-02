@@ -1,0 +1,56 @@
+[
+  {
+    "name":"Steve Jobs",
+    "shortname":"Steve_Jobs",
+    "reknown":" The Co-Founder, Chairman, and CEO of Apple Inc",
+    "bio":"Former Apple CEO Steve Jobs passed away Wednesday at the age of 56, but during his time at Apple, he brought world an incredible array of visionary products that he helped design and create. Jobs liked to call some of his products “magical.While that might be a bit of an exaggeration, there no doubt he and the people he oversaw at Apple changed the way people interact with computers. One of Jobs biggest notions was the idea of building a device focused on the needs of a user and not just building technology for the sake of it. He oversaw the creation of the world single most popular portable music player and smartphone. Here are 10 important products Steve Jobs brought to the world while at Apple:Apple II, Lisa, Macintosh, iMac, iPod, iTunes, MacBook Pro, iPhone, MacBook Air, iPad"
+  },
+  {
+    "name":"Steve Wozniak",
+    "shortname":"Steve_Wozniak",
+    "reknown":"Co-Founded Apple Computer (Apple Inc.)",
+    "bio":"Born in San Jose, California, on August 11, 1950. In partnership with his friend Steve Jobs, Wozniak invented the Apple I computer. The pair founded Apple Computers in 1976 with Ronald Wayne, releasing some of the first personal computers on the market. Wozniak also personally developed the next model, Apple II, which established Apple as a major player in microcomputing."
+  },
+  {
+    "name":"Jeff Bezos",
+    "shortname":"Jeff_Bezos",
+    "reknown":"Founder and Chief Executive Officer of Amazon.com",
+    "bio":"Entrepreneur and e-commerce pioneer Jeff Bezos was born on January 12, 1964, in Albuquerque, New Mexico. Bezos had an early love of computers and studied computer science and electrical engineering at Princeton University. After graduation, he worked on Wall Street, and in 1990 became the youngest senior vice president at the investment firm D.E. Shaw. Four years later, he quit his lucrative job to open Amazon.com, a virtual bookstore that became one of the internet's biggest success stories. In 2013, Bezos made headlines when he purchased The Washington Post in a $250 million deal."
+  },
+  {
+    "name":"Marisa Mayer",
+    "shortname":"Marisa_Mayer",
+    "reknown":"Led the development of Google's Products and CEO of Yahoo",
+    "bio":"Born on May 30, 1975, in Wausau, Wisconsin, was appointed CEO of Yahoo in 2012. Prior to joining Yahoo, she spent 13 years at Google, where her work in product development largely contributed to the site's unique look and feel. At the time of Mayer's Yahoo appointment, she was one of only 20 female CEOs in charge of a Fortune 500 company."
+  },
+  {
+    "name":"Alexander Ljung",
+    "shortname":"Alexander_Ljung",
+    "reknown":"Co-Founder, Chief Executive Officer and Managing Director of SoundCloud",
+    "bio":"Has a background as a post-production sound designer and motion film music producer. Mr. Ljung holds a M.Sc. degree within Media Technology from The Royal Institute of Technology in Stockholm and also studied Marketing & Business Development at the Stockholm School of Economics."
+  },
+  {
+    "name":"Mark Zuckerberg",
+    "shortname":"Mark_Zuckerberg",
+    "reknown":"co-founder and CEO of  Facebook, as well as one of the world's youngest billionaires.",
+    "bio":"Born on May 14, 1984, in White Plains, New York, Mark Zuckerberg co-founded the social-networking website Facebook out of his college dorm room. He left Harvard after his sophomore year to concentrate on the site, the user base of which has grown to more than 250 million people, making Zuckerberg a billionaire. The birth of Facebook was recently portrayed in the film The Social Network."
+  },
+  {
+    "name":"Phil Fish",
+    "shortname":"Phil_Fish",
+    "reknown":"A French Canadian game designer and the co-founder of Polytron Corporation.",
+    "bio":"Got his start in the games industry after graduating form the National Art and Design Center with a master in level design. He was subsequently hired by Ubisoft Montreal, where he worked as a level designer on Open Season. However, after working on the game for eight months, he had a mental breakdown during a meeting and was removed from the team and ultimately fired. The breakdown was brought on by his work at Ubisoft and several projects he was engaged in on the side; LAPIS, a game for Pannoscope, a few artist-for-hire projects that didn't go anywhere, and beginning GAMMA, a Montreal-based video game exhibit.During the tail end of his time at Ubisoft, Fish would begin working with Renaud Bédard on Fez, a 2D puzzle-platformer. In 2008, Fish entered Fez into the Independent Games Festival where the game won an award for Excellence in Visual Art. After being fired by Ubisoft Montreal, Fish went independent and founded Polytron to work full-time on Fez. Fish would spend the next four years working on the game before releasing it in April 2012."
+  },
+  {
+    "name":"Drew Houston",
+    "shortname":"Drew_Houston",
+    "reknown":"Co-Founder & CEO @ Dropbox",
+    "bio":"Has led Dropbox's growth from a simple idea to a service used by millions around the world.Before founding Dropbox, Drew received his bachelor’s degree in electrical engineering and computer science from MIT in 2006. He took a quick leave from school to form Accolade, an online SAT prep startup, and also worked as a software engineer at various startups.After graduating, Drew was endlessly frustrated by carrying USB drives and emailing himself files. In early 2007, he teamed up with fellow MIT student Arash Ferdowsi and the two began working on the project that would eventually become Dropbox.In 2012, Drew was named to MIT Technology Review’s TR35 list honoring the world’s top innovators under 35. He was also included in Fortune’s “40 Under 40."
+  },
+  {
+    "name":"Larry Page",
+    "shortname":"Larry_Page",
+    "reknown":"Founder and CEO of Google Inc",
+    "bio":"Born in Michigan in 1973, Larry Page's parents were both computer experts, so it was no surprise that he studied computer engineering at Stanford University. That's where he met Sergey Brin. Together, Page and Brin developed a search engine that listed results according to the popularity of the pages, calling it Google. Since launching Google in 1998, the company has become the world's most popular search engine, averaging nearly 6 billion searches daily in 2013."
+  }
+]
